@@ -1,4 +1,4 @@
-# advanced-vue
+# D3 Practice/Learning Experience
 
 > A Vue.js project
 
